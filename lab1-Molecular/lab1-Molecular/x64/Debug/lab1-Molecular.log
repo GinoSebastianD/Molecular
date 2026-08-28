@@ -1,0 +1,6 @@
+﻿  lab1-Molecular.cpp
+C:\Users\ginod\OneDrive\Documentos\lab1-Molecular\lab1-Molecular.cpp(25,19): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ginod\OneDrive\Documentos\lab1-Molecular\lab1-Molecular.cpp(25,49): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ginod\OneDrive\Documentos\lab1-Molecular\lab1-Molecular.cpp(49,55): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ginod\OneDrive\Documentos\lab1-Molecular\lab1-Molecular.cpp(49,35): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  lab1-Molecular.vcxproj -> C:\Users\ginod\OneDrive\Documentos\lab1-Molecular\x64\Debug\lab1-Molecular.exe

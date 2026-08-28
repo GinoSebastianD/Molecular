@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab1-Molecular.vcxproj" Id="a708fa02-1ea3-4a18-aed0-0deb71e75a97" />
+</Solution>
