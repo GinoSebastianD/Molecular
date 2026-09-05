@@ -288,7 +288,6 @@ void ejemploBRCA1() {
         seqsR = seqsF;
     }
 
-    cout << "--- Cadenas FORWARD ---\n";
     cout << "Secuencias de entrada:\n";
     printMSA(namesF, seqsF);
     StarMSAResult resF = starMSA(seqsF, false);
@@ -298,7 +297,6 @@ void ejemploBRCA1() {
     cout << "\nScore centro-estrella: " << resF.centerStarScore
         << "   |   Score SP: " << resF.spScore << "\n\n";
 
-    cout << "--- Cadenas REVERSE ---\n";
     cout << "Secuencias de entrada:\n";
     printMSA(namesR, seqsR);
     StarMSAResult resR = starMSA(seqsR, false);
@@ -308,11 +306,7 @@ void ejemploBRCA1() {
     cout << "\nScore centro-estrella: " << resR.centerStarScore
         << "   |   Score SP: " << resR.spScore << "\n\n";
 
-    cout << "Interpretacion: al alinear solo forward entre si (y solo reverse entre si),\n"
-        << "se comparan primers que amplifican DISTINTOS exones/regiones del gen BRCA1;\n"
-        << "por eso los scores tienden a ser bajos y el alineamiento muestra pocos matches\n"
-        << "reales y muchos gaps/mismatches: no comparten homologia de secuencia significativa,\n"
-        << "solo el hecho de pertenecer al mismo gen y protocolo de amplificacion LR-PCR.\n";
+
 }
 
 int main() {
@@ -334,10 +328,8 @@ int main() {
             ejemploBRCA1();
             break;
         case 0:
-            cout << "Programa finalizado.\n";
             break;
         default:
-            cout << "Opcion no valida.\n";
         }
     } while (opcion != 0);
 
