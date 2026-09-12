@@ -1,0 +1,6 @@
+alineamiento=global Needleman-Wunsch por pares
+match=2
+mismatch=-1
+gap=-1
+empates=diagonal,arriba,izquierda
+huecos=exclusion por par
