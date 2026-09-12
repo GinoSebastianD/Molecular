@@ -1,7 +1,0 @@
-triples=20
-violaciones_ultrametricas=12
-max_desvio_ultrametrico=0.100000
-violaciones_triangulares=0
-cuartetos=15
-violaciones_cuatro_puntos=4
-max_desvio_cuatro_puntos=0.183333

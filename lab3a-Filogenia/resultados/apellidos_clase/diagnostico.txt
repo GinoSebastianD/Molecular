@@ -1,7 +1,0 @@
-triples=0
-violaciones_ultrametricas=0
-max_desvio_ultrametrico=0.000000
-violaciones_triangulares=0
-cuartetos=0
-violaciones_cuatro_puntos=0
-max_desvio_cuatro_puntos=0.000000

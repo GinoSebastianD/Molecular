@@ -1,5 +1,0 @@
-n=6; unir D2 + D3; criterio=0.000000; d=0.000000; ramas=0.000000,0.000000; tamanos=1,1; altura=0.000000
-n=5; unir D4 + D6; criterio=0.000000; d=0.000000; ramas=0.000000,0.000000; tamanos=1,1; altura=0.000000
-n=4; unir D5 + (D4,D6); criterio=0.300000; d=0.300000; ramas=0.150000,0.150000; tamanos=1,2; altura=0.150000
-n=3; unir D1 + (D2,D3); criterio=0.416667; d=0.416667; ramas=0.208333,0.208333; tamanos=1,2; altura=0.208333
-n=2; unir (D5,(D4,D6)) + (D1,(D2,D3)); criterio=0.859259; d=0.859259; ramas=0.279630,0.221296; tamanos=3,3; altura=0.429630

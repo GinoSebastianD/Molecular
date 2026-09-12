@@ -1,4 +1,0 @@
-n=5; unir S1 + S3; criterio=0.000000; d=0.000000; ramas=0.000000,0.000000; tamanos=1,1; altura=0.000000
-n=4; unir S2 + S4; criterio=0.000000; d=0.000000; ramas=0.000000,0.000000; tamanos=1,1; altura=0.000000
-n=3; unir (S1,S3) + (S2,S4); criterio=0.069685; d=0.069685; ramas=0.034842,0.034842; tamanos=2,2; altura=0.034842
-n=2; unir S5 + ((S1,S3),(S2,S4)); criterio=0.473531; d=0.473531; ramas=0.236766,0.201923; tamanos=1,4; altura=0.236766
