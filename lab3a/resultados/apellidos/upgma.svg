@@ -1,0 +1,42 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 805 625'>
+<rect width='100%' height='100%' fill='white'/><g font-family='Arial' fill='#182b3a'>
+<text x='25' y='32' font-size='22' font-weight='bold'>Arbol UPGMA</text>
+<text x='25' y='59' font-size='14'>Cladograma sin escala; longitudes escritas sobre las ramas.</text>
+<text x='25' y='80' font-size='14'>UPGMA con raiz. Todas las hojas tienen igual altura.</text>
+<path d='M 440 205 V 175 H 575' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='448' y='167' font-size='14' fill='#224e69'>0.000000</text>
+<path d='M 440 205 V 235 H 575' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='448' y='227' font-size='14' fill='#224e69'>0.000000</text>
+<path d='M 305 505 V 475 H 440' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='313' y='467' font-size='14' fill='#224e69'>0.303571</text>
+<path d='M 440 325 V 295 H 575' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='448' y='287' font-size='14' fill='#224e69'>0.050000</text>
+<path d='M 440 325 V 355 H 575' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='448' y='347' font-size='14' fill='#224e69'>0.050000</text>
+<path d='M 305 505 V 535 H 440' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='313' y='527' font-size='14' fill='#224e69'>0.303571</text>
+<path d='M 170 190 V 115 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='107' font-size='14' fill='#224e69'>0.341369</text>
+<path d='M 170 460 V 415 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='407' font-size='14' fill='#224e69'>0.369048</text>
+<path d='M 305 265 V 205 H 440' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='313' y='197' font-size='14' fill='#224e69'>0.309524</text>
+<path d='M 305 265 V 325 H 440' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='313' y='317' font-size='14' fill='#224e69'>0.259524</text>
+<path d='M 170 460 V 505 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='497' font-size='14' fill='#224e69'>0.065476</text>
+<path d='M 170 190 V 265 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='257' font-size='14' fill='#224e69'>0.031845</text>
+<path d='M 35 325 V 190 H 170' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='43' y='182' font-size='14' fill='#224e69'>0.065430</text>
+<path d='M 35 325 V 460 H 170' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='43' y='452' font-size='14' fill='#224e69'>0.037751</text>
+<text x='584' y='180' font-size='17'>E1</text>
+<text x='584' y='240' font-size='17'>E2</text>
+<text x='449' y='480' font-size='17'>E3</text>
+<text x='584' y='300' font-size='17'>E4</text>
+<text x='584' y='360' font-size='17'>E5</text>
+<text x='449' y='540' font-size='17'>E6</text>
+<text x='314' y='120' font-size='17'>E7</text>
+<text x='314' y='420' font-size='17'>E8</text>
+</g></svg>

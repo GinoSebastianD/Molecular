@@ -1,0 +1,49 @@
+S1 - S2
+ATTGCCATT
+ATGGCCATT
+cambios=1 comparables=9 huecos=0 p=0.111111 JC=0.120257
+
+S1 - S3
+ATTGCCA--TT
+A-TCCAATTTT
+cambios=2 comparables=8 huecos=3 p=0.250000 JC=0.304099
+
+S1 - S4
+ATTGCCATT
+ATCTTC-TT
+cambios=3 comparables=8 huecos=1 p=0.375000 JC=0.519860
+
+S1 - S5
+ATTGCCATT
+ACTG--ACC
+cambios=3 comparables=7 huecos=2 p=0.428571 JC=0.635473
+
+S2 - S3
+ATGGCCA--TT
+AT-CCAATTTT
+cambios=2 comparables=8 huecos=3 p=0.250000 JC=0.304099
+
+S2 - S4
+ATGGCCATT
+ATCTTC-TT
+cambios=3 comparables=8 huecos=1 p=0.375000 JC=0.519860
+
+S2 - S5
+A-TGGCCATT
+ACTGACC---
+cambios=1 comparables=6 huecos=4 p=0.166667 JC=0.188486
+
+S3 - S4
+ATCCAATTTT
+AT-C-TTCTT
+cambios=2 comparables=8 huecos=2 p=0.250000 JC=0.304099
+
+S3 - S5
+ATCCAATTTT
+A-CTGA--CC
+cambios=4 comparables=7 huecos=3 p=0.571429 JC=1.076313
+
+S4 - S5
+ATCTTCTT
+A-CTGACC
+cambios=4 comparables=7 huecos=1 p=0.571429 JC=1.076313

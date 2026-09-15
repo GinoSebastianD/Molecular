@@ -1,0 +1,27 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 670 445'>
+<rect width='100%' height='100%' fill='white'/><g font-family='Arial' fill='#182b3a'>
+<text x='25' y='32' font-size='22' font-weight='bold'>Arbol UPGMA</text>
+<text x='25' y='59' font-size='14'>Cladograma sin escala; longitudes escritas sobre las ramas.</text>
+<text x='25' y='80' font-size='14'>UPGMA con raiz. Todas las hojas tienen igual altura.</text>
+<path d='M 305 325 V 295 H 440' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='313' y='287' font-size='14' fill='#224e69'>0.060128</text>
+<path d='M 305 325 V 355 H 440' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='313' y='347' font-size='14' fill='#224e69'>0.060128</text>
+<path d='M 170 145 V 115 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='107' font-size='14' fill='#224e69'>0.152049</text>
+<path d='M 170 145 V 175 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='167' font-size='14' fill='#224e69'>0.152049</text>
+<path d='M 170 280 V 235 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='227' font-size='14' fill='#224e69'>0.205990</text>
+<path d='M 170 280 V 325 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='317' font-size='14' fill='#224e69'>0.145861</text>
+<path d='M 35 212.5 V 145 H 170' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='43' y='137' font-size='14' fill='#224e69'>0.164663</text>
+<path d='M 35 212.5 V 280 H 170' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='43' y='272' font-size='14' fill='#224e69'>0.110722</text>
+<text x='449' y='300' font-size='17'>S1</text>
+<text x='449' y='360' font-size='17'>S2</text>
+<text x='314' y='120' font-size='17'>S3</text>
+<text x='314' y='180' font-size='17'>S4</text>
+<text x='314' y='240' font-size='17'>S5</text>
+</g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 670 445'>
+<rect width='100%' height='100%' fill='white'/><g font-family='Arial' fill='#182b3a'>
+<text x='25' y='32' font-size='22' font-weight='bold'>Arbol Neighbor Joining</text>
+<text x='25' y='59' font-size='14'>Cladograma sin escala; longitudes escritas sobre las ramas.</text>
+<text x='25' y='80' font-size='14'>NJ sin raiz evolutiva. Rojo: longitud negativa.</text>
+<path d='M 170 160 V 115 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='107' font-size='14' fill='#224e69'>0.022849</text>
+<path d='M 305 205 V 175 H 440' fill='none' stroke='#b52e32' stroke-width='2'/>
+<text x='313' y='167' font-size='14' fill='#b52e32'>-0.213071</text>
+<path d='M 170 325 V 295 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='287' font-size='14' fill='#224e69'>0.071139</text>
+<path d='M 170 325 V 355 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='347' font-size='14' fill='#224e69'>0.232960</text>
+<path d='M 305 205 V 235 H 440' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='313' y='227' font-size='14' fill='#224e69'>0.401557</text>
+<path d='M 170 160 V 205 H 305' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='178' y='197' font-size='14' fill='#224e69'>0.260773</text>
+<path d='M 35 242.5 V 160 H 170' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='43' y='152' font-size='14' fill='#224e69'>0.118541</text>
+<path d='M 35 242.5 V 325 H 170' fill='none' stroke='#224e69' stroke-width='2'/>
+<text x='43' y='317' font-size='14' fill='#224e69'>0.118541</text>
+<text x='314' y='120' font-size='17'>S1</text>
+<text x='449' y='180' font-size='17'>S2</text>
+<text x='314' y='300' font-size='17'>S3</text>
+<text x='314' y='360' font-size='17'>S4</text>
+<text x='449' y='240' font-size='17'>S5</text>
+</g></svg>

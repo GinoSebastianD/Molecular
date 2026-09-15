@@ -1,0 +1,15 @@
+OK  JC con p=0.25
+OK  JC con secuencias iguales
+OK  JC rechaza p=0.75
+OK  Conteos de S1 y S2
+OK  Huecos separados de sustituciones
+OK  Rechazo de bases invalidas
+OK  UPGMA recupera una matriz ultrametrica
+OK  UPGMA pondera por cantidad de hojas
+OK  NJ recupera distancias y ramas de una matriz aditiva
+OK  NJ cierra la ultima arista sin duplicarla
+OK  NJ conserva una rama negativa conocida
+OK  Rechazo de matriz asimetrica
+OK  Levenshtein normalizado
+OK  Apellidos cruzados
+14 pruebas correctas
