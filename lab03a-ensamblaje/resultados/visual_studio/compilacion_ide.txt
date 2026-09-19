@@ -1,9 +1,0 @@
-La recompilación se inició a las 13:49...
-1>------ Operación Recompilar todo iniciada: proyecto: Consenso, configuración: Release x64 ------
-2>------ Operación Recompilar todo iniciada: proyecto: Hamiltoniano, configuración: Release x64 ------
-1>  01_consenso.cpp
-2>  02_hamiltoniano.cpp
-1>  Consenso.vcxproj -> C:\Users\ginod\OneDrive\Documentos\ChatGPT\Molecular\lab03a-ensamblaje\build\vs2026\Release\consenso.exe
-2>  Hamiltoniano.vcxproj -> C:\Users\ginod\OneDrive\Documentos\ChatGPT\Molecular\lab03a-ensamblaje\build\vs2026\Release\hamiltoniano.exe
-========== Recompilar todo: 2 correcto, 0 con errores, 0 omitido ===========
-========== Recompilar completado a las 13:49 y tardó 06.877 segundos ==========

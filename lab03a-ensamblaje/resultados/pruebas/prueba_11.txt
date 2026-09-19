@@ -1,6 +1,0 @@
-ENTRADA
-1 4
-AXGT
-
-SALIDA
-Cada fragmento debe contener solamente A, C, G y T.

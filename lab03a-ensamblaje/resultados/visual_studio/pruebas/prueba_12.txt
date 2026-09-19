@@ -1,6 +1,0 @@
-ENTRADA
-1 4 0
-ACGT
-
-SALIDA
-Entrada invalida: n entre 1 y 10; longitud y t positivos.
