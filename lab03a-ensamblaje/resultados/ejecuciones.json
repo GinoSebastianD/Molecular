@@ -1,0 +1,22 @@
+[
+  {
+    "case": "consenso",
+    "stdout": "CONSENSO SIN ERRORES\nFragmentos: 8\nLongitud objetivo: 55 bases\nOrientaciones: + directa, - complemento reverso\n\nCONSENSO MAS CERCANO AL OBJETIVO\nGCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCGCGGGCAGTACTTAACTCGAGG\nLongitud: 55 bases\nf1- GCCCGCGGCTTCAACGGAT------------------------------------  [1, 19]\nf2+ --------------------------------------------TTAACTCGAGG  [45, 55]\nf3- ----------------------------------CGGGCAGTACTTAA-------  [35, 48]\nf4+ -----------------ATCTGTGTCGGG--------------------------  [18, 29]\nf5- --------------------TGTGTCGGGAGTCG---------------------  [21, 34]\nf6- -CCCGCGGCTTCAACGGATCTGTG-------------------------------  [2, 24]\nf7- -----------------------------------------TACTTAACTCGAG-  [42, 54]\nf8+ --------------------------------CGCGGGCAGTACTT---------  [33, 46]\nVerificacion exacta: 8/8 fragmentos\nDiferencia con el objetivo: 0 bases\nMenor enlace de la construccion elegida: 2 bases\n\nCONSENSO MAS CORTO\nCCTCGAGTTAAGTACTGCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCG\nLongitud: 50 bases\nf1- ----------------GCCCGCGGCTTCAACGGAT---------------  [17, 35]\nf2- CCTCGAGTTAA---------------------------------------  [1, 11]\nf3+ -------TTAAGTACTGCCCG-----------------------------  [8, 21]\nf4+ ---------------------------------ATCTGTGTCGGG-----  [34, 45]\nf5- ------------------------------------TGTGTCGGGAGTCG  [37, 50]\nf6- -----------------CCCGCGGCTTCAACGGATCTGTG----------  [18, 40]\nf7+ -CTCGAGTTAAGTA------------------------------------  [2, 14]\nf8- ---------AAGTACTGCCCGCG---------------------------  [10, 23]\nVerificacion exacta: 8/8 fragmentos\n\nEstados visitados: 16374\nConstrucciones completas evaluadas: 1604\nTiempo de busqueda: 19.090 ms\n",
+    "exit_code": 0
+  },
+  {
+    "case": "hamiltoniano_t2",
+    "stdout": "CAMINO HAMILTONIANO\nFragmentos: 8\nLongitud objetivo: 55 bases\nLinkage t: 2\nVertices orientados: 16\nAristas: 40\nCaminos completos: 20\n\nCamino: f1- -[18]-> f6- -[7]-> f4+ -[9]-> f5- -[2]-> f8+ -[12]-> f3- -[7]-> f7- -[10]-> f2+\n\nSECUENCIAS ENLAZADAS\nf1- GCCCGCGGCTTCAACGGAT------------------------------------  [1, 19]\nf6- -CCCGCGGCTTCAACGGATCTGTG-------------------------------  [2, 24]\nf4+ -----------------ATCTGTGTCGGG--------------------------  [18, 29]\nf5- --------------------TGTGTCGGGAGTCG---------------------  [21, 34]\nf8+ --------------------------------CGCGGGCAGTACTT---------  [33, 46]\nf3- ----------------------------------CGGGCAGTACTTAA-------  [35, 48]\nf7- -----------------------------------------TACTTAACTCGAG-  [42, 54]\nf2+ --------------------------------------------TTAACTCGAGG  [45, 55]\nADN GCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCGCGGGCAGTACTTAACTCGAGG\nLongitud: 55 bases\nDiferencia con el objetivo: 0 bases\nVerificacion exacta: 8/8 fragmentos\n\nEstados visitados: 967\nTiempo de grafo y busqueda: 0.112 ms\nGrafo guardado en grafo.dot\n",
+    "exit_code": 0
+  },
+  {
+    "case": "hamiltoniano_t7",
+    "stdout": "CAMINO HAMILTONIANO\nFragmentos: 8\nLongitud objetivo: 55 bases\nLinkage t: 7\nVertices orientados: 16\nAristas: 14\nCaminos completos: 2\n\nCamino: f2- -[10]-> f7+ -[7]-> f3+ -[12]-> f8- -[7]-> f1- -[18]-> f6- -[7]-> f4+ -[9]-> f5-\n\nSECUENCIAS ENLAZADAS\nf2- CCTCGAGTTAA---------------------------------------  [1, 11]\nf7+ -CTCGAGTTAAGTA------------------------------------  [2, 14]\nf3+ -------TTAAGTACTGCCCG-----------------------------  [8, 21]\nf8- ---------AAGTACTGCCCGCG---------------------------  [10, 23]\nf1- ----------------GCCCGCGGCTTCAACGGAT---------------  [17, 35]\nf6- -----------------CCCGCGGCTTCAACGGATCTGTG----------  [18, 40]\nf4+ ---------------------------------ATCTGTGTCGGG-----  [34, 45]\nf5- ------------------------------------TGTGTCGGGAGTCG  [37, 50]\nADN CCTCGAGTTAAGTACTGCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCG\nLongitud: 50 bases\nDiferencia con el objetivo: 5 bases\nVerificacion exacta: 8/8 fragmentos\n\nEstados visitados: 73\nTiempo de grafo y busqueda: 0.189 ms\nGrafo guardado en grafo.dot\n",
+    "exit_code": 0
+  },
+  {
+    "case": "hamiltoniano_t8",
+    "stdout": "CAMINO HAMILTONIANO\nFragmentos: 8\nLongitud objetivo: 55 bases\nLinkage t: 8\nVertices orientados: 16\nAristas: 8\nCaminos completos: 0\nNo existe camino hamiltoniano para este valor de t.\n\nEstados visitados: 25\nTiempo de grafo y busqueda: 0.059 ms\nGrafo guardado en grafo.dot\n",
+    "exit_code": 0
+  }
+]

@@ -1,0 +1,27 @@
+CAMINO HAMILTONIANO
+Fragmentos: 8
+Longitud objetivo: 110 bases
+Linkage t: 4
+Vertices orientados: 16
+Aristas: 40
+Caminos completos: 20
+
+Camino: f1- -[36]-> f6- -[14]-> f4+ -[18]-> f5- -[4]-> f8+ -[24]-> f3- -[14]-> f7- -[20]-> f2+
+
+SECUENCIAS ENLAZADAS
+f1- GGCCCCCCGGCCGGGGCCTTTTCCAAAACCGGGGAATT------------------------------------------------------------------------  [1, 38]
+f6- --CCCCCCGGCCGGGGCCTTTTCCAAAACCGGGGAATTCCTTGGTTGG--------------------------------------------------------------  [3, 48]
+f4+ ----------------------------------AATTCCTTGGTTGGTTCCGGGGGG----------------------------------------------------  [35, 58]
+f5- ----------------------------------------TTGGTTGGTTCCGGGGGGAAGGTTCCGG------------------------------------------  [41, 68]
+f8+ ----------------------------------------------------------------CCGGCCGGGGGGCCAAGGTTAACCTTTT------------------  [65, 92]
+f3- --------------------------------------------------------------------CCGGGGGGCCAAGGTTAACCTTTTAAAA--------------  [69, 96]
+f7- ----------------------------------------------------------------------------------TTAACCTTTTAAAACCTTCCGGAAGG--  [83, 108]
+f2+ ----------------------------------------------------------------------------------------TTTTAAAACCTTCCGGAAGGGG  [89, 110]
+ADN GGCCCCCCGGCCGGGGCCTTTTCCAAAACCGGGGAATTCCTTGGTTGGTTCCGGGGGGAAGGTTCCGGCCGGGGGGCCAAGGTTAACCTTTTAAAACCTTCCGGAAGGGG
+Longitud: 110 bases
+Diferencia con el objetivo: 0 bases
+Verificacion exacta: 8/8 fragmentos
+
+Estados visitados: 967
+Tiempo de grafo y busqueda: 1.092 ms
+Grafo guardado en grafo.dot

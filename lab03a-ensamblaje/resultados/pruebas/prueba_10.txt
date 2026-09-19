@@ -1,0 +1,26 @@
+ENTRADA
+1 4
+ACGT
+
+SALIDA
+CONSENSO SIN ERRORES
+Fragmentos: 1
+Longitud objetivo: 4 bases
+Orientaciones: + directa, - complemento reverso
+
+CONSENSO MAS CERCANO AL OBJETIVO
+ACGT
+Longitud: 4 bases
+f1+ ACGT  [1, 4]
+Verificacion exacta: 1/1 fragmentos
+Diferencia con el objetivo: 0 bases
+
+CONSENSO MAS CORTO
+ACGT
+Longitud: 4 bases
+f1+ ACGT  [1, 4]
+Verificacion exacta: 1/1 fragmentos
+
+Estados visitados: 3
+Construcciones completas evaluadas: 2
+Tiempo de busqueda: 0.003 ms

@@ -1,0 +1,5 @@
+build/
+*.exe
+*.o
+grafo.dot
+!resultados/**/grafo.dot

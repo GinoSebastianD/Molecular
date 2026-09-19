@@ -1,0 +1,33 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><title>Camino hamiltoniano con t = 2</title>
+<style>*{box-sizing:border-box}body{margin:0;background:#fff;color:#18222e;font-family:Arial,sans-serif;padding:26px;width:1280px}h1{font-size:25px;margin:0 0 8px}p{font-size:16px;margin:0 0 20px;color:#526171}pre{white-space:pre-wrap;overflow-wrap:anywhere;margin:0;background:#f4f6f8;border:1px solid #ccd2d9;padding:20px;font:22px/1.34 Consolas,monospace;color:#111b29}small{display:block;font-size:14px;margin-top:14px;color:#526171}svg{display:block;width:100%;height:auto}.split{display:grid;grid-template-columns:1fr 1fr;gap:18px}h2{font-size:21px}</style>
+<h1>Camino hamiltoniano con t = 2</h1><p>Laboratorio 03a · Ensamblaje de fragmentos de ADN · Gino Sebastian</p><pre>&gt; build/hamiltoniano.exe &lt; datos/hamiltoniano_t2.txt
+
+CAMINO HAMILTONIANO
+Fragmentos: 8
+Longitud objetivo: 55 bases
+Linkage t: 2
+Vertices orientados: 16
+Aristas: 40
+Caminos completos: 20
+
+Camino: f1- -[18]-&gt; f6- -[7]-&gt; f4+ -[9]-&gt; f5- -[2]-&gt; f8+ -[12]-&gt; f3- -[7]-&gt; f7- -[10]-&gt; f2+
+
+SECUENCIAS ENLAZADAS
+f1- GCCCGCGGCTTCAACGGAT------------------------------------  [1, 19]
+f6- -CCCGCGGCTTCAACGGATCTGTG-------------------------------  [2, 24]
+f4+ -----------------ATCTGTGTCGGG--------------------------  [18, 29]
+f5- --------------------TGTGTCGGGAGTCG---------------------  [21, 34]
+f8+ --------------------------------CGCGGGCAGTACTT---------  [33, 46]
+f3- ----------------------------------CGGGCAGTACTTAA-------  [35, 48]
+f7- -----------------------------------------TACTTAACTCGAG-  [42, 54]
+f2+ --------------------------------------------TTAACTCGAGG  [45, 55]
+ADN GCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCGCGGGCAGTACTTAACTCGAGG
+Longitud: 55 bases
+Diferencia con el objetivo: 0 bases
+Verificacion exacta: 8/8 fragmentos
+
+Estados visitados: 967
+Tiempo de grafo y busqueda: 0.112 ms
+Grafo guardado en grafo.dot
+
+Codigo de salida: 0</pre><small>Salida real de 02_hamiltoniano.cpp. Las posiciones se cuentan desde 1.</small></html>

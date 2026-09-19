@@ -1,0 +1,48 @@
+ENTRADA
+8 55
+ATCCGTTGAAGCCGCGGGC
+TTAACTCGAGG
+TTAAGTACTGCCCG
+ATCTGTGTCGGG
+CGACTCCCGACACA
+CACAGATCCGTTGAAGCCGCGGG
+CTCGAGTTAAGTA
+CGCGGGCAGTACTT
+
+SALIDA
+CONSENSO SIN ERRORES
+Fragmentos: 8
+Longitud objetivo: 55 bases
+Orientaciones: + directa, - complemento reverso
+
+CONSENSO MAS CERCANO AL OBJETIVO
+GCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCGCGGGCAGTACTTAACTCGAGG
+Longitud: 55 bases
+f1- GCCCGCGGCTTCAACGGAT------------------------------------  [1, 19]
+f2+ --------------------------------------------TTAACTCGAGG  [45, 55]
+f3- ----------------------------------CGGGCAGTACTTAA-------  [35, 48]
+f4+ -----------------ATCTGTGTCGGG--------------------------  [18, 29]
+f5- --------------------TGTGTCGGGAGTCG---------------------  [21, 34]
+f6- -CCCGCGGCTTCAACGGATCTGTG-------------------------------  [2, 24]
+f7- -----------------------------------------TACTTAACTCGAG-  [42, 54]
+f8+ --------------------------------CGCGGGCAGTACTT---------  [33, 46]
+Verificacion exacta: 8/8 fragmentos
+Diferencia con el objetivo: 0 bases
+Menor enlace de la construccion elegida: 2 bases
+
+CONSENSO MAS CORTO
+CCTCGAGTTAAGTACTGCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCG
+Longitud: 50 bases
+f1- ----------------GCCCGCGGCTTCAACGGAT---------------  [17, 35]
+f2- CCTCGAGTTAA---------------------------------------  [1, 11]
+f3+ -------TTAAGTACTGCCCG-----------------------------  [8, 21]
+f4+ ---------------------------------ATCTGTGTCGGG-----  [34, 45]
+f5- ------------------------------------TGTGTCGGGAGTCG  [37, 50]
+f6- -----------------CCCGCGGCTTCAACGGATCTGTG----------  [18, 40]
+f7+ -CTCGAGTTAAGTA------------------------------------  [2, 14]
+f8- ---------AAGTACTGCCCGCG---------------------------  [10, 23]
+Verificacion exacta: 8/8 fragmentos
+
+Estados visitados: 16374
+Construcciones completas evaluadas: 1604
+Tiempo de busqueda: 26.610 ms

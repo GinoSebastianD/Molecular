@@ -1,0 +1,29 @@
+ENTRADA
+2 6
+ACGTAC
+CGT
+
+SALIDA
+CONSENSO SIN ERRORES
+Fragmentos: 2
+Longitud objetivo: 6 bases
+Orientaciones: + directa, - complemento reverso
+
+CONSENSO MAS CERCANO AL OBJETIVO
+ACGTAC
+Longitud: 6 bases
+f1+ ACGTAC  [1, 6]
+f2+ -CGT--  [2, 4]
+Verificacion exacta: 2/2 fragmentos
+Diferencia con el objetivo: 0 bases
+
+CONSENSO MAS CORTO
+ACGTAC
+Longitud: 6 bases
+f1+ ACGTAC  [1, 6]
+f2+ -CGT--  [2, 4]
+Verificacion exacta: 2/2 fragmentos
+
+Estados visitados: 12
+Construcciones completas evaluadas: 5
+Tiempo de busqueda: 0.006 ms

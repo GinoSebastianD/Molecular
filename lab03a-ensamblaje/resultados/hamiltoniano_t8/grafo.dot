@@ -1,0 +1,27 @@
+digraph Ensamblaje {
+  rankdir=LR;
+  v0 [label="f1+"];
+  v1 [label="f1-"];
+  v2 [label="f2+"];
+  v3 [label="f2-"];
+  v4 [label="f3+"];
+  v5 [label="f3-"];
+  v6 [label="f4+"];
+  v7 [label="f4-"];
+  v8 [label="f5+"];
+  v9 [label="f5-"];
+  v10 [label="f6+"];
+  v11 [label="f6-"];
+  v12 [label="f7+"];
+  v13 [label="f7-"];
+  v14 [label="f8+"];
+  v15 [label="f8-"];
+  v1 -> v11 [label="18"];
+  v3 -> v12 [label="10"];
+  v4 -> v15 [label="12"];
+  v6 -> v9 [label="9"];
+  v8 -> v7 [label="9"];
+  v10 -> v0 [label="18"];
+  v13 -> v2 [label="10"];
+  v14 -> v5 [label="12"];
+}

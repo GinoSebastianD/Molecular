@@ -1,0 +1,30 @@
+ENTRADA
+2 6
+AAAAC
+CGTT
+
+SALIDA
+CONSENSO SIN ERRORES
+Fragmentos: 2
+Longitud objetivo: 6 bases
+Orientaciones: + directa, - complemento reverso
+
+CONSENSO MAS CERCANO AL OBJETIVO
+AAAACG
+Longitud: 6 bases
+f1+ AAAAC-  [1, 5]
+f2- --AACG  [3, 6]
+Verificacion exacta: 2/2 fragmentos
+Diferencia con el objetivo: 0 bases
+Menor enlace de la construccion elegida: 3 bases
+
+CONSENSO MAS CORTO
+AAAACG
+Longitud: 6 bases
+f1+ AAAAC-  [1, 5]
+f2- --AACG  [3, 6]
+Verificacion exacta: 2/2 fragmentos
+
+Estados visitados: 9
+Construcciones completas evaluadas: 3
+Tiempo de busqueda: 0.005 ms

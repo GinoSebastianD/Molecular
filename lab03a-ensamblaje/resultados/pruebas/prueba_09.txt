@@ -1,0 +1,15 @@
+ENTRADA
+2 6
+AAA
+CCC
+
+SALIDA
+CONSENSO SIN ERRORES
+Fragmentos: 2
+Longitud objetivo: 6 bases
+Orientaciones: + directa, - complemento reverso
+No existe un ensamblaje conectado con solapamientos positivos.
+
+Estados visitados: 5
+Construcciones completas evaluadas: 0
+Tiempo de busqueda: 0.002 ms
