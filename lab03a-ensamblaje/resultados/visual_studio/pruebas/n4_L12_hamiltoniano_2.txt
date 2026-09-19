@@ -1,0 +1,23 @@
+CAMINO HAMILTONIANO
+Fragmentos: 4
+Longitud objetivo: 24 bases
+Linkage t: 4
+Vertices orientados: 8
+Aristas: 12
+Caminos completos: 10
+
+Camino: f1+ -[8]-> f2- -[8]-> f3+ -[8]-> f4-
+
+SECUENCIAS ENLAZADAS
+f1+ AGACCCCCTACG------------  [1, 12]
+f2- ----CCCCTACGTACA--------  [5, 16]
+f3+ --------TACGTACAAAGA----  [9, 20]
+f4- ------------TACAAAGAGACC  [13, 24]
+ADN AGACCCCCTACGTACAAAGAGACC
+Longitud: 24 bases
+Diferencia con el objetivo: 0 bases
+Verificacion exacta: 4/4 fragmentos
+
+Estados visitados: 47
+Tiempo de grafo y busqueda: 0.042 ms
+Grafo guardado en grafo.dot

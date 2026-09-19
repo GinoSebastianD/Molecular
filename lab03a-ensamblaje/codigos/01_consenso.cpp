@@ -55,7 +55,7 @@ void buscar(string cadena, int cantidad, int enlaceMinimo) {
             } else if (cadena.find(siguiente) != string::npos) {
                 buscar(cadena, cantidad + 1, enlaceMinimo);
             } else {
-                int limite = min(cadena.size(), siguiente.size());
+                int limite = (int)min(cadena.size(), siguiente.size());
                 for (int k = limite; k >= 1; k--) {
                     if (cadena.substr(cadena.size() - k) == siguiente.substr(0, k)) {
                         buscar(cadena + siguiente.substr(k), cantidad + 1,

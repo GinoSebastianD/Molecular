@@ -3,9 +3,13 @@
 *.cpp text eol=lf
 *.md text eol=lf
 *.txt text eol=lf
+*.log text eol=lf
 *.json text eol=lf
 *.html text eol=lf
 *.svg text eol=lf
 *.dot text eol=lf
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.cmd text eol=crlf
 .gitignore text eol=lf
 .gitattributes text eol=lf

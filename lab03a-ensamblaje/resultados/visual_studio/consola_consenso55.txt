@@ -1,0 +1,18 @@
+CONSENSO SIN ERRORES
+Fragmentos: 8
+Longitud objetivo: 55 bases
+Orientaciones: + directa, - complemento reverso
+CONSENSO MAS CERCANO AL OBJETIVO
+GCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCGCGGGCAGTACTTAACTCGAGG
+Longitud: 55 bases
+f1- GCCCGCGGCTTCAACGGAT------------------------------------  [1, 19]
+f2+ --------------------------------------------TTAACTCGAGG  [45, 55]
+f3- ----------------------------------CGGGCAGTACTTAA-------  [35, 48]
+f4+ -----------------ATCTGTGTCGGG--------------------------  [18, 29]
+f5- --------------------TGTGTCGGGAGTCG---------------------  [21, 34]
+f6- -CCCGCGGCTTCAACGGATCTGTG-------------------------------  [2, 24]
+f7- -----------------------------------------TACTTAACTCGAG-  [42, 54]
+f8+ --------------------------------CGCGGGCAGTACTT---------  [33, 46]
+Verificacion exacta: 8/8 fragmentos
+Diferencia con el objetivo: 0 bases
+Menor enlace de la construccion elegida: 2 bases

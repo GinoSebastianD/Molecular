@@ -27,7 +27,7 @@ string complementoReverso(string cadena) {
 }
 
 int solapamiento(string a, string b) {
-    int limite = min(a.size(), b.size());
+    int limite = (int)min(a.size(), b.size());
     for (int k = limite; k >= 1; k--) {
         if (a.substr(a.size() - k) == b.substr(0, k)) return k;
     }
@@ -131,7 +131,7 @@ int main() {
         for (int i = 1; i < n; i++) {
             int a = mejorCamino[i - 1], b = mejorCamino[i];
             int k = enlace[a][b];
-            posicion[i] = resultado.size() - k;
+            posicion[i] = (int)resultado.size() - k;
             resultado += cadenas[b].substr(k);
             cout << " -[" << k << "]-> " << nombre(b);
         }

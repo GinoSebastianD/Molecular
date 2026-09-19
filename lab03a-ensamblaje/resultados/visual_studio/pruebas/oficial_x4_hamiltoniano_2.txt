@@ -1,0 +1,27 @@
+CAMINO HAMILTONIANO
+Fragmentos: 8
+Longitud objetivo: 220 bases
+Linkage t: 8
+Vertices orientados: 16
+Aristas: 40
+Caminos completos: 20
+
+Camino: f1- -[72]-> f6- -[28]-> f4+ -[36]-> f5- -[8]-> f8+ -[48]-> f3- -[28]-> f7- -[40]-> f2+
+
+SECUENCIAS ENLAZADAS
+f1- GGGGCCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTT------------------------------------------------------------------------------------------------------------------------------------------------  [1, 76]
+f6- ----CCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTTCCCCTTTTGGGGTTTTGGGG----------------------------------------------------------------------------------------------------------------------------  [5, 96]
+f4+ --------------------------------------------------------------------AAAATTTTCCCCTTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGG--------------------------------------------------------------------------------------------------------  [69, 116]
+f5- --------------------------------------------------------------------------------TTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGGAAAAGGGGTTTTCCCCGGGG------------------------------------------------------------------------------------  [81, 136]
+f8+ --------------------------------------------------------------------------------------------------------------------------------CCCCGGGGCCCCGGGGGGGGGGGGCCCCAAAAGGGGTTTTAAAACCCCTTTTTTTT------------------------------------  [129, 184]
+f3- ----------------------------------------------------------------------------------------------------------------------------------------CCCCGGGGGGGGGGGGCCCCAAAAGGGGTTTTAAAACCCCTTTTTTTTAAAAAAAA----------------------------  [137, 192]
+f7- --------------------------------------------------------------------------------------------------------------------------------------------------------------------TTTTAAAACCCCTTTTTTTTAAAAAAAACCCCTTTTCCCCGGGGAAAAGGGG----  [165, 216]
+f2+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------TTTTTTTTAAAAAAAACCCCTTTTCCCCGGGGAAAAGGGGGGGG  [177, 220]
+ADN GGGGCCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTTCCCCTTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGGAAAAGGGGTTTTCCCCGGGGCCCCGGGGGGGGGGGGCCCCAAAAGGGGTTTTAAAACCCCTTTTTTTTAAAAAAAACCCCTTTTCCCCGGGGAAAAGGGGGGGG
+Longitud: 220 bases
+Diferencia con el objetivo: 0 bases
+Verificacion exacta: 8/8 fragmentos
+
+Estados visitados: 967
+Tiempo de grafo y busqueda: 2.148 ms
+Grafo guardado en grafo.dot

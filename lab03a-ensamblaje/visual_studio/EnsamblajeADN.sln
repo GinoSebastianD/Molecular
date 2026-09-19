@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.8.12105.206
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Consenso", "Consenso.vcxproj", "{D9CEB327-C652-57BD-AFF9-A10FF46E3ACB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hamiltoniano", "Hamiltoniano.vcxproj", "{81BE14E0-198F-5EF8-9861-2302CD21438C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9CEB327-C652-57BD-AFF9-A10FF46E3ACB}.Debug|x64.ActiveCfg = Debug|x64
+		{D9CEB327-C652-57BD-AFF9-A10FF46E3ACB}.Debug|x64.Build.0 = Debug|x64
+		{D9CEB327-C652-57BD-AFF9-A10FF46E3ACB}.Release|x64.ActiveCfg = Release|x64
+		{D9CEB327-C652-57BD-AFF9-A10FF46E3ACB}.Release|x64.Build.0 = Release|x64
+		{81BE14E0-198F-5EF8-9861-2302CD21438C}.Debug|x64.ActiveCfg = Debug|x64
+		{81BE14E0-198F-5EF8-9861-2302CD21438C}.Debug|x64.Build.0 = Debug|x64
+		{81BE14E0-198F-5EF8-9861-2302CD21438C}.Release|x64.ActiveCfg = Release|x64
+		{81BE14E0-198F-5EF8-9861-2302CD21438C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal

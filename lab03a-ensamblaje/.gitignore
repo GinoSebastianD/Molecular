@@ -1,5 +1,7 @@
 build/
 *.exe
 *.o
+.vs/
+*.vcxproj.user
 grafo.dot
 !resultados/**/grafo.dot

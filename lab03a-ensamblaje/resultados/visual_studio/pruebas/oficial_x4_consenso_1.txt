@@ -1,0 +1,36 @@
+CONSENSO SIN ERRORES
+Fragmentos: 8
+Longitud objetivo: 220 bases
+Orientaciones: + directa, - complemento reverso
+
+CONSENSO MAS CERCANO AL OBJETIVO
+GGGGCCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTTCCCCTTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGGAAAAGGGGTTTTCCCCGGGGCCCCGGGGGGGGGGGGCCCCAAAAGGGGTTTTAAAACCCCTTTTTTTTAAAAAAAACCCCTTTTCCCCGGGGAAAAGGGGGGGG
+Longitud: 220 bases
+f1- GGGGCCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTT------------------------------------------------------------------------------------------------------------------------------------------------  [1, 76]
+f2+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------TTTTTTTTAAAAAAAACCCCTTTTCCCCGGGGAAAAGGGGGGGG  [177, 220]
+f3- ----------------------------------------------------------------------------------------------------------------------------------------CCCCGGGGGGGGGGGGCCCCAAAAGGGGTTTTAAAACCCCTTTTTTTTAAAAAAAA----------------------------  [137, 192]
+f4+ --------------------------------------------------------------------AAAATTTTCCCCTTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGG--------------------------------------------------------------------------------------------------------  [69, 116]
+f5- --------------------------------------------------------------------------------TTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGGAAAAGGGGTTTTCCCCGGGG------------------------------------------------------------------------------------  [81, 136]
+f6- ----CCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTTCCCCTTTTGGGGTTTTGGGG----------------------------------------------------------------------------------------------------------------------------  [5, 96]
+f7- --------------------------------------------------------------------------------------------------------------------------------------------------------------------TTTTAAAACCCCTTTTTTTTAAAAAAAACCCCTTTTCCCCGGGGAAAAGGGG----  [165, 216]
+f8+ --------------------------------------------------------------------------------------------------------------------------------CCCCGGGGCCCCGGGGGGGGGGGGCCCCAAAAGGGGTTTTAAAACCCCTTTTTTTT------------------------------------  [129, 184]
+Verificacion exacta: 8/8 fragmentos
+Diferencia con el objetivo: 0 bases
+Menor enlace de la construccion elegida: 8 bases
+
+CONSENSO MAS CORTO
+CCCCCCCCTTTTCCCCGGGGAAAAGGGGTTTTTTTTAAAAAAAAGGGGTTTTAAAACCCCTTTTGGGGCCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTTCCCCTTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGGAAAAGGGGTTTTCCCCGGGG
+Longitud: 200 bases
+f1- ----------------------------------------------------------------GGGGCCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTT------------------------------------------------------------  [65, 140]
+f2- CCCCCCCCTTTTCCCCGGGGAAAAGGGGTTTTTTTTAAAAAAAA------------------------------------------------------------------------------------------------------------------------------------------------------------  [1, 44]
+f3+ ----------------------------TTTTTTTTAAAAAAAAGGGGTTTTAAAACCCCTTTTGGGGCCCCCCCCCCCCGGGG--------------------------------------------------------------------------------------------------------------------  [29, 84]
+f4+ ------------------------------------------------------------------------------------------------------------------------------------AAAATTTTCCCCTTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGG--------------------  [133, 180]
+f5- ------------------------------------------------------------------------------------------------------------------------------------------------TTTTGGGGTTTTGGGGTTTTCCCCGGGGGGGGGGGGAAAAGGGGTTTTCCCCGGGG  [145, 200]
+f6- --------------------------------------------------------------------CCCCCCCCCCCCGGGGCCCCGGGGGGGGCCCCTTTTTTTTCCCCAAAAAAAACCCCGGGGGGGGAAAATTTTCCCCTTTTGGGGTTTTGGGG----------------------------------------  [69, 160]
+f7+ ----CCCCTTTTCCCCGGGGAAAAGGGGTTTTTTTTAAAAAAAAGGGGTTTTAAAA------------------------------------------------------------------------------------------------------------------------------------------------  [5, 56]
+f8- ------------------------------------AAAAAAAAGGGGTTTTAAAACCCCTTTTGGGGCCCCCCCCCCCCGGGGCCCCGGGG------------------------------------------------------------------------------------------------------------  [37, 92]
+Verificacion exacta: 8/8 fragmentos
+
+Estados visitados: 102838
+Construcciones completas evaluadas: 1604
+Tiempo de busqueda: 2353.714 ms
